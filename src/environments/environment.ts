@@ -5,7 +5,7 @@
 export const environment = {
     production: false,
     // foodOrderingBaseApiUrl: 'http://localhost:8080/api',
-    foodOrderingBaseApiUrl: 'https://foodify-backend-production.up.railway.app/api',
+    foodOrderingBaseApiUrl: 'https://foodify.up.railway.app/api',
     firebaseConfig: {
         apiKey: 'AIzaSyAZFFIuXkbgdp2F-Em4CK2z8kVJ2L4p_UU',
         authDomain: 'foodify-55954.firebaseapp.com',
